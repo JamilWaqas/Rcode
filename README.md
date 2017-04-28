@@ -8,7 +8,7 @@ Herein is attached some R code for:
 
 3)LDA->Linear Discriminant Analysis
 
-4)AAvsAVGForTSP-> Refers to the following paper:
+4)AAvsAVGForTSP(and all the csv)-> Refers to the following paper:
 https://www.researchgate.net/publication/308444089_Aggregation_Algorithm_Vs_Average_for_Time_Series_Prediction
 
 

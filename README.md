@@ -1,14 +1,11 @@
 # Rcode
 
-Herein is attached some R code for:
+Some R code for
 
-1)NN->Nearest Neighbour
-
-2)KRR->Polynomial Kernel Ridge Regression
-
-3)LDA->Linear Discriminant Analysis
-
-4)AAvsAVGForTSP(and all the csv)-> Refers to the following paper:
+- kernel Regression
+- Classification 
+- LDA->Linear Discriminant Analysis
+- AAvsAVGForTSP(and all the csv)-> Refers to the following paper:
 https://www.researchgate.net/publication/308444089_Aggregation_Algorithm_Vs_Average_for_Time_Series_Prediction
 
 
